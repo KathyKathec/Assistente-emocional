@@ -1,0 +1,6 @@
+opencv-python
+fer
+tensorflow
+python-dotenv
+moviepy
+pip install pillow
